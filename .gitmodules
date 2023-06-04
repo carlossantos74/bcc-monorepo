@@ -1,0 +1,24 @@
+[submodule "bcc-data-structure"]
+	path = bcc-data-structure
+	url = git@github.com:carlossantos74/bcc-data-structure.git
+[submodule "bcc-calculadora-assembly"]
+	path = bcc-calculadora-assembly
+	url = git@github.com:carlossantos74/bcc-calculadora-assembly.git
+[submodule "bcc-bank"]
+	path = bcc-bank
+	url = git@github.com:carlossantos74/bcc-bank.git
+[submodule "bcc-procedural"]
+	path = bcc-procedural
+	url = git@github.com:carlossantos74/bcc-procedural.git
+[submodule "bcc-manzano-eleicoes"]
+	path = bcc-manzano-eleicoes
+	url = git@github.com:carlossantos74/bcc-manzano-eleicoes.git
+[submodule "bcc-manzano-cap-4"]
+	path = bcc-manzano-cap-4
+	url = git@github.com:carlossantos74/bcc-manzano-cap-4.git
+[submodule "bcc-manzano-cap-6"]
+	path = bcc-manzano-cap-6
+	url = git@github.com:carlossantos74/bcc-manzano-cap-6.git
+[submodule "bcc-atividades-em-c"]
+	path = bcc-atividades-em-c
+	url = git@github.com:carlossantos74/bcc-atividades-em-c.git
